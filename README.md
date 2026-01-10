@@ -41,6 +41,6 @@ Panah Bawah: Gerak ke Bawah
 
 ESC: Pause Game
 
-Enter: Mulai Game / Pilih Menu
+Enter: Mulai Game
 
 Q: Keluar dari Game
